@@ -1,4 +1,4 @@
-# Font::Mfizz::Rails
+# font-mfizz-rails: A Ruby Gem for the Font Mfizz
 
 [Font Mfizz](https://github.com/fizzed/font-mfizz) is a set of vector icons for technology and software Geeks! If you need some icons like programming icons or well-known tech companies' icons, the Font Mfizz maybe is for you.
 
