@@ -32,7 +32,7 @@ In your `application.css`, include the css file:
 
 Then restart your webserver if it was previously running.
 
-Congrats! You now use vector icons for technology and softwares like a real Geek. Pick an icon and check out the
+Congrats! You now have a set of vector icons for technology and softwares like a real Geek. Pick an icon and check out the
 [FontMfizz Usages and Examples](http://fizzed.com/oss/font-mfizz).
 
 ## Contributing
