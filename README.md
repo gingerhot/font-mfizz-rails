@@ -24,11 +24,12 @@ Or install it yourself as:
 
 In your `application.css`, include the css file:
 
-``css
+```css
 /*
  *= require font-mfizz
  */
-``
+```
+
 Then restart your webserver if it was previously running.
 
 Congrats! You now use vector icons for technology and softwares like a real Geek. Pick an icon and check out the
