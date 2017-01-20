@@ -37,7 +37,9 @@ Congrats! You now have a set of vector icons for technology and softwares like a
 
 ### Basic example
 
+```css
 <i class="icon-ruby-on-rails-alt"></i> I love Rails
+```
 
 ### Helpers
 
