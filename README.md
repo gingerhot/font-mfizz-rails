@@ -37,6 +37,8 @@ Congrats! You now have a set of vector icons for technology and softwares like a
 
 ### Basic example
 
+A Ruby on Rails icon [detail](http://fizzed.com/oss/font-mfizz/icon-ruby-on-rails-alt):
+
 ```css
 <i class="icon-ruby-on-rails-alt"></i> I love Rails
 ```
