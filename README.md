@@ -35,6 +35,26 @@ Then restart your webserver if it was previously running.
 Congrats! You now have a set of vector icons for technology and softwares like a real Geek. Pick an icon and check out the
 [FontMfizz Usages and Examples](http://fizzed.com/oss/font-mfizz).
 
+### Basic example
+
+<i class="icon-ruby-on-rails-alt"></i> I love Rails
+
+### Helpers
+
+Just one helper available now and I think maybe it's enough for the Font Mfizz:
+
+```ruby
+<%= fm_icon "icon-ruby-on-rails-alt" "I love Rails" %>
+```
+
+will generate:
+
+```css
+<i class="icon-ruby-on-rails-alt"></i> I love Rails
+```
+
+here the second parameter is optional.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/gingerhot/font-mfizz-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
