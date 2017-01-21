@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.licenses      = ["MIT", "SIL Open Font License"]
 
   gem.files         = `git ls-files -- {app,bin,lib,test,spec}/* {LICENSE*,Rakefile,README*}`.split("\n")
-  gem.test_files    = `git ls-files -- {test,spec}/*`.split("\n")
+  #gem.test_files    = `git ls-files -- {test,spec}/*`.split("\n")
   gem.name          = "font-mfizz-rails"
   gem.require_paths = ["lib"]
   gem.version       = FontMfizz::Rails::VERSION
