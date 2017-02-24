@@ -59,6 +59,18 @@ will generate:
 
 here the second parameter is optional.
 
+And you can set an array of style classes as the first parameter:
+
+```ruby
+<%= fm_icon ["icon-ruby-on-rails-alt", "font-size-style"] "I love Rails" %>
+```
+
+will generate:
+
+```css
+<i class="icon-ruby-on-rails-alt font-size-style"></i> I love Rails
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/gingerhot/font-mfizz-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
