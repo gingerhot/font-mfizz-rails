@@ -1,8 +1,10 @@
-# font-mfizz-rails: A Ruby Gem for the Font Mfizz
+# font-mfizz-rails: A Ruby Gem for Font Mfizz
 
-[Font Mfizz](https://github.com/fizzed/font-mfizz) is a set of vector icons for technology and software Geeks! If you need some icons for programming languages or well-known tech companies, the Font Mfizz is for you.
+[Font Mfizz](http://fizzed.com/oss/font-mfizz) provides scalable vector icons representing programming languages, operating systems, software engineering, and technology. It was designed as an extension to [Font Awesome](http://fontawesome.io/), it is an iconic font designed for technology and software geeks. It can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
-I'm just a cat copied most files from the Ruby Gem [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) and feed them on the Font Mfizz style sheets :)
+This gem is inspired by [font-awesome-rails](https://github.com/bokmann/font-awesome-rails).
+
+The font's source code can be found on [Github](https://github.com/fizzed/font-mfizz)
 
 ## Installation
 
@@ -22,12 +24,23 @@ Or install it yourself as:
 
 ## Usage
 
-In your `application.css`, include the css file:
+### CSS
+
+In `app/assets/stylesheets/application.css`, include the css file:
 
 ```css
 /*
  *= require font-mfizz
  */
+```
+
+### SCSS
+
+In your `application.scss`, include the css file:
+
+
+```scss
+@import "font-mfizz";
 ```
 
 Then restart your webserver if it was previously running.
