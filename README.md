@@ -22,12 +22,23 @@ Or install it yourself as:
 
 ## Usage
 
+### CSS
+
 In your `application.css`, include the css file:
 
 ```css
 /*
  *= require font-mfizz
  */
+```
+
+### SCSS
+
+In your `application.scss`, include the css file:
+
+
+```scss
+@import "font-mfizz";
 ```
 
 Then restart your webserver if it was previously running.
