@@ -9,7 +9,7 @@ I'm just a cat copied most files from the Ruby Gem [font-awesome-rails](https://
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'font-mfizz-rails', '~> 1.1', '>= 1.1.0'
+gem 'font-mfizz-rails', '~> 1.1'
 ```
 
 And then execute:
